@@ -1,0 +1,13 @@
+[
+    {
+      "header": "Pokhara",
+      "imageLocation" : "assets/Pokhara.jpg",
+      "description":"Pokhara is a unique place which contains beautiful lakes and known for their paragliding"
+      
+    },
+    {
+        "header": "Bhaktapur",
+        "imageLocation":"assets/Bhaktapur.jpg",
+        "description":"Bhaktapur is one of the unique places contain a long history and rich culture"
+    }
+  ]
